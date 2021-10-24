@@ -1,3 +1,4 @@
+// Variable constante:
 const text = "This Is A Super, Super Sample Text.";
 
 // Cutting strings:

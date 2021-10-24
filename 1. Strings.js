@@ -1,3 +1,4 @@
+// Variables constantes:
 const text = "This is a sample text.";
 const number = 155;
 

@@ -1,3 +1,4 @@
+// Variables constantes:
 const number1 = 7;
 const number2 = 8;
 const pi = 3.141516;
